@@ -1,1 +1,1 @@
-# Single page aplication con JavaScript Vanilla
+# Single page aplication with JavaScript Vanilla
